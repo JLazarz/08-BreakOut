@@ -1,2 +1,2 @@
 # 08-BreakOut
-This is the repository for the BreakOut Game.
+The game is playable and if you score 1350 points, you Win!
